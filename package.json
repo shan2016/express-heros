@@ -1,0 +1,23 @@
+{
+  "name": "express-heros",
+  "version": "1.0.0",
+  "description": "express版的heros管理",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shan2016/express-heros.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shan2016/express-heros/issues"
+  },
+  "homepage": "https://github.com/shan2016/express-heros#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
