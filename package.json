@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/shan2016/express-heros#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
